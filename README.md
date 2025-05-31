@@ -24,4 +24,5 @@ LendingProtocol
 - **Long-term vision** of becoming global financial infrastructure
 
 Contact Details :0xD96f6aD97990690d64229ae1bb2e0230788342a7
-[Screenshot 2025-05-26 130828](https://github.com/user-attachments/assets/38c35eac-e17b-4e00-9158-7d5ca2c22d9c)
+![Screenshot 2025-05-26 130828](https://github.com/user-attachments/assets/9a7bf3b8-899a-463d-87bb-b2a93262cf2c)
+
